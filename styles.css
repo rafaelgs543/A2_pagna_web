@@ -1,12 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400;600&display=swap');
+
 body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Raleway', sans-serif;
     background-color: #6e8962;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     line-height: 1.6;
+}
+
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
 }
 
 /* ===== Container Central ===== */
